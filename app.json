@@ -23,6 +23,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1f6ea531-677f-4004-be71-d979fa7984a8"
+      }
+    },
+    "owner": "gfonseca03",
+    "plugins": [
+      "expo-sqlite"
+    ]
   }
 }
